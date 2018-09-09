@@ -22,5 +22,8 @@
 	1.AB  
 1. B  
 
-
+githubにあげる方法　　
+1.ファイルを編集後、`git add ファイル名`  
+2.`git commit -m "コメント"`　　
+3.`git push origin master`  
 
