@@ -14,12 +14,12 @@
 - List1  
 	-list1-1  
 	-list1-2  
--List2  
+- List2  
 
 1. A  
 	1.AA  
 	1.AB  
-1.B  
+1. B  
 
 
 
