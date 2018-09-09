@@ -8,7 +8,7 @@
 > ○○から引用。  
 >>多重引用  
 
-**cd /d F:\**
+**cd /d F:**
 `inline code.`  
 
 - List1  
